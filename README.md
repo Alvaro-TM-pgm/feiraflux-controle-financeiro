@@ -1,6 +1,6 @@
-# FeiraFlux — Controle financeiro da feira
+# ProAccounting — Controle financeiro da feira
 
-Aplicação estática em português para acompanhar produtos, estoque, vendas, despesas, contas a pagar, fluxo de caixa e fechamento de uma feira. Não exige instalação, servidor de aplicação ou conta para funcionar.
+Aplicação estática em português para acompanhar produtos, estoque, vendas, despesas, contas a pagar, fluxo de caixa e fechamento de uma feira. Não exige instalação, servidor de aplicação ou conta para funcionar. Criado por Alvaro Monteiro.
 
 ## Como utilizar
 
